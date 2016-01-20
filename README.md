@@ -81,7 +81,16 @@ assert_length(response, 5)
 
 %%%
 
-### Example 3: Video
+### Example 3: Combinations
+
+This section includes the following examples:
+
+1. Video
+2. Image
+3. Code block
+4. Blockquote
+5. Table
+6. Lists
 
 Video (`iframe`) with download link.
 
@@ -89,11 +98,11 @@ Video (`iframe`) with download link.
 
 [Download Video](http://flatiron-videos.s3.amazonaws.com/ironboard/welcome%20to%20the%20shell.mp4)
 
-### Example 4: Image
+Ok, now `/giphy` me.
 
 ![catz](https://after-school-assets.s3.amazonaws.com/cat.gif "CATZ")
 
-### Example 5: Code block
+Next up is a code block.
 
 ```javascript
 var fizzbuzz = function (num) {
@@ -109,13 +118,13 @@ var fizzbuzz = function (num) {
 };
 ```
 
-### Example 6: Blockquote
+Inspiring quote [[source](#not-really)]
 
 > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
 > Aliquam hendrerit mi posuere lectus.
 > Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
-### Example 7: Table
+Let's throwing another [link](#nowhere) in here.
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
