@@ -14,6 +14,7 @@ Below are examples of elements that could appear in any **Learn lesson README**.
 * Do stuff
 * Make tests pass
 * Emphasize stuff with _italics_
+* Pay attention to `code snippets`
 
 ### Example 1: Quiz
 
@@ -82,7 +83,7 @@ assert_length(response, 5)
 
 ### Example 3: Video
 
-Video (iframe) with download link.
+Video (`iframe`) with download link.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/uxANgIcjmQg?rel=0&amp;showinfo=0&html5=1" frameborder="0" allowfullscreen></iframe>
 
