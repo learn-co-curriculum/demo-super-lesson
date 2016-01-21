@@ -102,6 +102,10 @@ Ok, now `/giphy` me.
 
 ![catz](https://after-school-assets.s3.amazonaws.com/cat.gif "CATZ")
 
+Paragraph. [Lorem ipsum](http://www.lipsum.com/) dolor sit amet, consectetur adipiscing elit. Ut nec metus quam. Integer luctus accumsan ante, et auctor sapien placerat in. Donec eget nunc a mauris sagittis posuere at ut velit. Nam sollicitudin rhoncus lacus non hendrerit. Duis semper quis turpis ac ultrices. Integer nec faucibus tortor, eu malesuada leo. Aenean imperdiet erat vel efficitur ullamcorper.
+
+Another paragraph. Nunc eleifend sodales pellentesque. [Suspendisse tortor nibh](#not-a-real-link), sollicitudin eget hendrerit facilisis, tristique id odio. Phasellus erat lectus, tempus sit amet blandit id, sollicitudin eget purus. Donec vel iaculis enim, feugiat porta ligula. Vivamus tincidunt odio in ante scelerisque, vitae placerat felis cursus.
+
 Next up is a code block.
 
 ```javascript
@@ -118,13 +122,13 @@ var fizzbuzz = function (num) {
 };
 ```
 
-Inspiring quote [[source](#not-really)]
+Inspiring quote [[source](#not-really)]:
 
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
-> Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+> Ut nec metus quam. Integer luctus accumsan ante, et auctor sapien placerat in.
+> Donec eget nunc a mauris sagittis posuere at ut velit.
 
-Let's throwing another [link](#nowhere) in here.
+Let's throw another [link](#nowhere) in here.
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
