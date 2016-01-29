@@ -136,4 +136,4 @@ Let's throw another [link](#nowhere) in here.
 | amet          | consectetuer  |  $200 |
 | adipiscing    | elit.         |   $30 |
 
-<a href='https://learn.co/lessons/demo-super-lesson' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/demo-super-lesson' title='Demo Super Lesson'>Demo Super Lesson</a> on Learn.co and start learning to code for free.</p>
