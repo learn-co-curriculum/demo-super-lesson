@@ -4,6 +4,7 @@
 
 1. Present valid readme syntax.
 2. Include examples of all possible lesson readme elements.
+3. Do some other crazy lesson stuff, edit 2
 
 ## Overview
 
@@ -136,4 +137,6 @@ Let's throw another [link](#nowhere) in here.
 | amet          | consectetuer  |  $200 |
 | adipiscing    | elit.         |   $30 |
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/demo-super-lesson' title='Demo Super Lesson'>Demo Super Lesson</a> on Learn.co and start learning to code for free.</p>
+<a href='https://learn.co/lessons/demo-super-lesson' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/demo-super-lesson'>demo super lesson</a> on Learn.co and start learning to code for free.</p>
